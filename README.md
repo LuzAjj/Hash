@@ -173,7 +173,7 @@ AUTO_APPROVE=true
 GAS_MAX_GWEI=50
 ```
 
-Simpan: `Ctrl+O` → Enter → `Ctrl+X`
+Simpan
 
 ### Langkah 8 — Test Koneksi (Dry Run)
 
