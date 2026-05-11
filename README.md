@@ -60,7 +60,7 @@ valid iff keccak256(challenge ‖ nonce) < currentDifficulty
 |---|---|---|
 | Node.js | v18.0.0 | `node --version` |
 | npm | v8.0.0 | `npm --version` |
-| ETH per wallet | ~0.01 ETH | untuk gas fee |
+| ETH per wallet | ~0.005 ETH | untuk gas fee |
 | Ethereum RPC URL | — | lihat pilihan di bawah |
 
 ### Pilihan RPC URL
