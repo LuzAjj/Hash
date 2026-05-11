@@ -74,7 +74,7 @@ valid iff keccak256(challenge ‖ nonce) < currentDifficulty
 
 ---
 
-## Instalasi Lokal
+## Instalasi Lokal PC
 
 ```bash
 # 1. Clone repository
@@ -131,8 +131,8 @@ sudo apt install -y git
 
 ```bash
 cd ~
-git clone https://github.com/USERNAME/hash256-miner.git
-cd hash256-miner
+git clone https://github.com/LuzAjj/Hash.git
+cd hash256-miner-v3
 ```
 
 ### Langkah 5 — Install Dependencies
