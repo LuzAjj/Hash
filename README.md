@@ -133,6 +133,7 @@ sudo apt install -y git
 ```bash
 cd ~
 git clone https://github.com/LuzAjj/Hash.git
+cd Hash
 cd hash256-miner-v3
 ```
 
