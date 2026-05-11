@@ -78,8 +78,8 @@ valid iff keccak256(challenge ‖ nonce) < currentDifficulty
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/LuzAjj/hash256-miner.git
-cd hash256-miner
+git clone https://github.com/LuzAjj/Hash.git
+cd /hash256-miner-v3/hash256-miner
 
 # 2. Install dependencies
 npm install
