@@ -78,7 +78,7 @@ valid iff keccak256(challenge ‖ nonce) < currentDifficulty
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/USERNAME/hash256-miner.git
+git clone https://github.com/LuzAjj/hash256-miner.git
 cd hash256-miner
 
 # 2. Install dependencies
